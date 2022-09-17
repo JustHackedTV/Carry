@@ -1,0 +1,23 @@
+{
+    "BOSS": {
+        "NECRON": "<:Necron_F7:1019720791111258153>",
+        "SADAN": "<:Sadan_F6:1019720794642862190>",
+        "LIVID": "<:Livid_F5:1019720789341241384>",
+        "THORN": "<:Thorn_F4:1019720797260095589>",
+        "PROFESSOR": "<:Professor_F3:1019720792629583924>",
+        "SCARF":"<:Scarf_F2:1019720796010192977>",
+        "BONZO":"<:Bonzo_F1:1019720787483172996>"
+    },
+    "SCORES": {
+        "COMPLITION": "<:Complition_Dungeon:1019717273730166865>",
+        "S": "<:S_Score_Dungeon:1019717275630174228>",
+        "S_PLUS": "<:Splus_Score_Dungeon:1019717277316296844>"
+    },
+    "SLAYERS": {
+        "ZUMBI":"<:Horror:1019756161261641748>",
+        "TARANTULA":"<:Broodfather:1019756158136897596>",
+        "LOBO":"<:Packmaster:1019756162645770292>",
+        "VOIDGLOOM":"<:Enderman:1019756159688777758>",
+        "DEMONLORD":"<:Blaze:1019756154823381064>"
+    }
+}

@@ -1,0 +1,14 @@
+REV:
+
+> **Tier 3 Revenant ** *(400k :revolving_hearts:, 120 :dagger:/s)*\n>  **Preço**: `25k`\n\n> **Tier 4 Revenant** *(1.5m :revolving_hearts:, 400 :dagger:/s)*\n> **Preço**: `100k`\n\n> **Tier 5 Revenant** *(10m :revolving_hearts:, 2'400 :dagger:/s)*\n> **Preço**: `250k`
+
+TARA:
+
+> **Tier 3 Tarantula** *(900k :revolving_hearts:, 210 :dagger:/s)*\n> **Preço**: `50k`\n\n> **Tier 4 Tarantula** *(2.4m :revolving_hearts:, 530 :dagger:/s)*\n> **Preço**: `100k`
+
+SVEN:
+
+> **Tier 3 Tarantula** *(2.4m :revolving_hearts:, 180 :dagger:/s)*\n> **Preço**: `50k`\n\n> **Tier 4 Tarantula** *(2m :revolving_hearts:, 440 :dagger:/s)*\n> **Preço**: `125k`
+
+VOID:
+> **Tier 1 Voidgloom** *(2.4m :revolving_hearts:, 530 :dagger:/s)*\n> **Preço**: `50k`\n\n> **Tier 2 Voidgloom** *(2.4m :revolving_hearts:, 530 :dagger:/s)*\n> **Preço**: `200k`\n\n> **Tier 3 Voidgloom** *(2.4m :revolving_hearts:, 530 :dagger:/s)*\n> **Preço**: `500k`\n\n> **Tier 4 Voidgloom** *(2.4m :revolving_hearts:, 530 :dagger:/s)*\n> **Preço**: `1m`\n> :warning: **REQUERIMENTO**: Combat 25+
