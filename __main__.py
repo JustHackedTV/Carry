@@ -22,11 +22,5 @@ async def on_ready():
 
 from CarryBot.Commands.createCarry import createCarryCommand
 createCarryCommand(client, GUILDS)
-"""from Anjico.Commandos.ajuda import comandoAjuda
-from Anjico.Commandos.avatarComando import ComandoAvatar
-from Anjico.Commandos.informacao import informacoesCmd
-comandoAjuda(client, GUILDS)
-ComandoAvatar(client, GUILDS)
-informacoesCmd(client, GUILDS)
-"""
+
 client.run(token)
